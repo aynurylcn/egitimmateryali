@@ -1,0 +1,4 @@
+Materyalin Gereksinimleri :
+-Programýn düzgün çalýþabilmesi için Adobe Flash Player programýnýn kurulu olmasý gerekir.
+-Bu programý klasörün içinden temin edebilirsiniz.Eðer bir sorunla karþýlaþýrsanýz internetten adobe.com sitesinden temin edebilirsiniz.
+-Projenin çalýþmasý için lütfen anasayfa.swf dosyasýný çalýþtýrýnýz.
